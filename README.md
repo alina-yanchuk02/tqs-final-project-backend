@@ -3,3 +3,5 @@ Repository for Backend REST API DEPLOY for Final project for Software test and q
 
 
 Main GIT: https://github.com/viniciusbenite/tqs-final-project
+
+HEROKU DEPLOYED: https://springtqs.herokuapp.com/
